@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "232150319207",
+    "project_id": "controlebatore",
+    "storage_bucket": "controlebatore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232150319207:android:d91224e68bfc2fb192d4c2",
+        "android_client_info": {
+          "package_name": "br.com.control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232150319207-mpglfsi1mh7ogd07bjnq7l451a5qng7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.control",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "232150319207-g2ma3c07194n13c3a3aqq2k0t2bt63vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9toUHhigJUks1TDPPqBFXtDN4Lj02Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232150319207-g2ma3c07194n13c3a3aqq2k0t2bt63vu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232150319207-ae2l5gvkbffol7vib5amo5d07l4drh53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.control"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
